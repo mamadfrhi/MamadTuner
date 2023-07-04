@@ -1,4 +1,3 @@
-# MamadTuner
-It's an awesome Digital Tuner
+# Mamad Tuner
 
 ![Tuner Logo](./tuner%20logo.png)
